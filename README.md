@@ -8,7 +8,10 @@ To compliment this area of the property market, data from the HM Land Registry r
 
 ## The Data
 	Primary: Estate agent sign requests for property in Sussex made between January 2020 to August 2021.
+
 	Secondary: Land Registry* Price Paid Data (PPD) for England and Wales in 2020 and 2021.
   *Contains HM Land Registry data © Crown copyright and database right 2021. This data is licensed under the Open Government Licence v3.0.
+  
 	Supporting: Geojson of Local Authority Districts for Sussex and surrounding area.
+
 	Supporting: Geojson of UK Postcodes.
