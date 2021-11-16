@@ -1,5 +1,8 @@
 # Stone-Signs-Portal-Analysis
 An project covering EDA, Linear analysis, Cluster analysis and Time Series analysis. 
+
+Link to Tableau Stroyboard: https://public.tableau.com/app/profile/hannah.dilley/viz/StoneSignsOn-linePortalAnalysis/TheStory?publish=yes
+
 ## The Business
 Stone Signs is a Sussex based company that provides a signage service for estate agents for property that is on the market For Sale or To Rent.  They also provide signage for commercial property as well as event sponsorship.  
 
